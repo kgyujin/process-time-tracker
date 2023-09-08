@@ -17,7 +17,7 @@ pip install pyinstaller
 
 Then, run the following command to create the .exe file:
 ```shell
-pyinstaller --onefile --noconsole check-process-time.py
+pyinstaller --onefile --noconsole process-time-tracker.py
 ```
 
 

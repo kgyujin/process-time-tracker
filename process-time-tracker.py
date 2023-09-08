@@ -102,7 +102,7 @@ def toggle_on_top():
 class MyApp(ThemedTk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.title('check-process-time')
+        self.title('process-time-tracker')
         try:
             self.iconbitmap('timer.ico')
         except tk.TclError:

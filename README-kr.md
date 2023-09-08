@@ -16,7 +16,7 @@ pip install pyinstaller
 
 그런 다음 다음 명령을 실행하여 .exe 파일을 생성합니다:
 ```shell
-pyinstaller --onefile --noconsole check-process-time.py
+pyinstaller --onefile --noconsole process-time-tracker.py
 ```
 
 
