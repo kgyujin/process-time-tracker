@@ -63,5 +63,5 @@ pyinstaller --onefile --noconsole process-time-tracker.py
 ## 연락
 이 프로젝트에 대한 질문이나 피드백은 아래 연락처로 부담 없이 연락주세요:
 
-Email: k_gyujin@daum.net
+Email: k_gyujin@daum.net  
 GitHub: [@kgyujin](https://github.com/kgyujin)

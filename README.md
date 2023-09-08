@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact Information
 For any questions or feedback about this project, feel free to contact me at:
 
-Email: k_gyujin@daum.net
+Email: k_gyujin@daum.net  
 GitHub: [@kgyujin](https://github.com/kgyujin)
